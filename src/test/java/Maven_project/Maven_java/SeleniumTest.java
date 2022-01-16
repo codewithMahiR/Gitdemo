@@ -19,6 +19,13 @@ public void ElementUI()
 	
 	System.out.println("ElementUI");
 }
+@Test 
 
+public void ElementUI1()
+{
+	
+	System.out.println("ElementUI");
+	System.out.println("ElemeUI");
+}
 
 }

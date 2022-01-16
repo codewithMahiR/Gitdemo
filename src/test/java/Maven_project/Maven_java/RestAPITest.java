@@ -19,6 +19,13 @@ public void postJira()
 		System.out.println("twittertask");
 	}
 	
+	@Test
+	public void bankingsect()
+	{
+		
+		System.out.println("bankerdelete");
+		System.out.println("bankertask");
+	}
 	
 	
 	
